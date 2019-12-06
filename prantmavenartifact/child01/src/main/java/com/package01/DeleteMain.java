@@ -25,5 +25,6 @@ public class DeleteMain {
 
     public void hehe(){
         System.out.println("hehe");
+        System.out.println("hehe让别人pull冲突");
     }
 }
