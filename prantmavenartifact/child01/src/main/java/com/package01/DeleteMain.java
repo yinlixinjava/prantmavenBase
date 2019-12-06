@@ -24,7 +24,7 @@ public class DeleteMain {
     }
 
     public void hehe(){
-        System.out.println("hehe01");
+        System.out.println("hehe");
         System.out.println("hehe02");
     }
 }
