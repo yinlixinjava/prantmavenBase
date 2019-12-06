@@ -9,11 +9,13 @@ public class DeleteMain {
         System.out.println("先提交后删除101");
         System.out.println("先提交后删除201");
         System.out.println("先提交后删除301");
+        System.out.println("我以为我更新了01-------");
         System.out.println("先提交后删除401====================");
         System.out.println("先提交后删除501");
         System.out.println("先提交后删除601");
         System.out.println("先提交后删除701");
         System.out.println("先提交后删除,修改着的文件在pull,看会不会被覆盖111111111111111111111");
+        System.out.println("我以为我更新了02-------");
 
     }
 }
