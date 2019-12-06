@@ -17,6 +17,6 @@ public class DeleteMain {
         System.out.println("先提交后删除701");
         System.out.println("先提交后删除,修改着的文件在pull,看会不会被覆盖111111111111111111111");
         System.out.println("我以为我更新了02-------");
-
+        System.out.println("正在修改的没有提交本地库的不能pull过来");
     }
 }
