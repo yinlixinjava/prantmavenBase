@@ -6,6 +6,8 @@ package com.package01;
 public class Package01Main01 {
     public static void main(String[] args) {
         System.out.println("-------01------");
+        System.out.println("-------01.01------");
         System.out.println("-------02------");
+        System.out.println("-------02.01------");
     }
 }
