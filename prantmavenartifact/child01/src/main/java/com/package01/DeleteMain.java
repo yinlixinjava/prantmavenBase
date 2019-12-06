@@ -19,7 +19,7 @@ public class DeleteMain {
         System.out.println("我以为我更新了02-------");
         System.out.println("正在修改的没有提交本地库的不能pull过来");
         System.out.println("正在修改的没有提交本地库的不能pull过来??????");
-
-
+        System.out.println("不同方法不受影响吧01");
+        System.out.println("不同方法不受影响吧02");
     }
 }
