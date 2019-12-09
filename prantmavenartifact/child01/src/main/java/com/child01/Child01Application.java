@@ -22,6 +22,7 @@ public class Child01Application {
 
 
         System.out.println("下午第一次,先什么都不选02");
+        System.out.println("在试一下选择第二个是什么鬼02");
 	}
 
 }
