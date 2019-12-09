@@ -1,0 +1,10 @@
+package com.child01;
+
+/**
+ * Created by admin on 2019/12/9.
+ */
+public class MergeTest02 {
+    public static void main(String[] args) {
+        System.out.println("拿新文件测试下02");
+    }
+}
