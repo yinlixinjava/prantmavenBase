@@ -15,6 +15,9 @@ public class Child01Application {
 		System.out.println("试一下修改多个文件试试02=====");
 
         System.out.println("刚才发生了冲突,这次我想重新试一下02");
+
+
+		System.out.println("这次我真的发现问题了,是我选错要merge的分支了02");
 	}
 
 }
