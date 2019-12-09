@@ -12,6 +12,7 @@ public class Child01Application {
 		System.out.println("=====================01.01====================");
 		System.out.println("=====================02====================");
 		System.out.println("=====================02.01====================");
+		System.out.println("试一下修改多个文件试试02=====");
 	}
 
 }
