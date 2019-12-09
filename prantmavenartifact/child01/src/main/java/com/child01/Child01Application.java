@@ -25,6 +25,7 @@ public class Child01Application {
         System.out.println("在试一下选择第二个是什么鬼02");
 		System.out.println("我是985912628,我想试试merge选择第二个");
 		System.out.println("单独测试下");
+		System.out.println("单独测试下222");
 	}
 
 }
