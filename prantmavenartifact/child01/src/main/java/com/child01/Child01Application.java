@@ -14,7 +14,7 @@ public class Child01Application {
 		System.out.println("=====================02.01====================");
 		System.out.println("试一下修改多个文件试试02=====");
 
-    System.out.println("刚才发生了冲突,这次我想重新试一下02");
+        System.out.println("刚才发生了冲突,这次我想重新试一下02");
 	}
 
 }
