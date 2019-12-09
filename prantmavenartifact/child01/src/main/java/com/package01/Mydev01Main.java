@@ -20,5 +20,6 @@ public class Mydev01Main {
 
         System.out.println("下午第一次,先什么都不选01");
         System.out.println("在试一下选择第二个是什么鬼01");
+        System.out.println("我是985912628,我想试试merge选择第二个02");
     }
 }
