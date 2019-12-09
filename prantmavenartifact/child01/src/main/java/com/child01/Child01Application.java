@@ -19,6 +19,9 @@ public class Child01Application {
 
 		System.out.println("这次我真的发现问题了,是我选错要merge的分支了02");
         System.out.println("希望这次是对的02");
+
+
+        System.out.println("下午第一次,先什么都不选02");
 	}
 
 }
