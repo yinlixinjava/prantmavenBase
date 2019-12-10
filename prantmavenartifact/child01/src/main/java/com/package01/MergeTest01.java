@@ -8,5 +8,6 @@ public class MergeTest01 {
         System.out.println("拿新文件测试下01");
         System.out.println("985912628新增的");
         System.out.println("我也不勾选");
+        System.out.println("尹立新测试merge勾选");
     }
 }
