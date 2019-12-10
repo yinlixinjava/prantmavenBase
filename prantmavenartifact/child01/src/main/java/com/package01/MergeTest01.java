@@ -10,5 +10,6 @@ public class MergeTest01 {
         System.out.println("我也不勾选");
         System.out.println("尹立新测试merge勾选");
         System.out.println("刚才没有测试,这次尹立新测试merge勾选01");
+        System.out.println("不用Squash commit试试什么效果01");
     }
 }
